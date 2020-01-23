@@ -1,0 +1,42 @@
+h1{
+    color: darkblue;
+    font-family: fantasy;
+}
+.smille{
+   
+    text-align: center;
+    cursor: pointer;
+
+}
+#minutes,#seconds{
+    font-family: fantasy;
+    margin: auto;
+}
+.hide{
+    text-indent: -9999px;
+}
+
+td{
+    font-family: fantasy;
+    cursor: pointer;
+    text-align: center;
+    background-color: lightblue;
+    border-color: darkblue;
+    border-width: 2px;
+    width: 30px;
+    max-width: 30px;
+    height: 30px;
+    max-height: 30px;
+
+}
+.game-over{
+    font-family: fantasy;
+}
+
+.is-victory{
+    font-family: fantasy;
+}
+
+h4{
+    font-family: fantasy;
+}
